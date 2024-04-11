@@ -16,5 +16,6 @@ function sumAndLastDivisibleByThree(str) {
   
   // Example Usage
   const str = "The best 6 of 8 will get 9 points";
+  //  const str = "The best 3 of 8 will get 7 points";
   console.log(sumAndLastDivisibleByThree(str));
   
