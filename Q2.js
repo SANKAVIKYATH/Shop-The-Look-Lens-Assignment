@@ -17,5 +17,6 @@ function divideArray(arr) {
   
   // Example Usage
   const array = [9, 33, 0, 7, 2, 82, 77];
+  //const array = [8, 23, 10, 17, 92, 0, 39]
   console.log(divideArray(array));
   
