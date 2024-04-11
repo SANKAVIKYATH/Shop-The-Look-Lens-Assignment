@@ -12,5 +12,6 @@ function findLastManStanding(n) {
   }
   
   // Example Usage
-  console.log(findLastManStanding(100)); // Output should be 73
+  console.log(findLastManStanding(100)); 
+  //console.log(findLastManStanding(1000));
   
